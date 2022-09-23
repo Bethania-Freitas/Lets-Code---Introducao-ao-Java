@@ -1,18 +1,28 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+# Introdução ao Java
+## Let's Code from Ada.
 
-The workspace contains two folders by default, where:
+O curso de introdução ao Java foi disponibilizado gratuitamente para o programa de bolsa de estudo das Americanas. 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O Módulo foi composto de 9 aulas onde aprendi sobre:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Variaveis
+- Operações básicas
+- Condicionais
+- Ternarios
+- Laços
+- Arrays
+- Funções
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 😲 Certificado Conclusão:
 
-## Dependency Management
+![App Screenshot](./print/conclusao.jpeg)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+## 👧🏻  Autores:
+
+- [Bethânia Freitas](https://github.com/Bethania-Freitas)
+
+
